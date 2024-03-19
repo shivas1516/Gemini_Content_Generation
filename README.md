@@ -19,8 +19,9 @@ This project leverages the power of Googles Generative AI to generate content ba
 
 1. Ensure you have Python installed on your system.
 2. Install the `google.generativeai` library using pip
-  pip install google.generativeai
 
-3. Obtain an API key from Googles Generative AI service.
+`pip install google.generativeai`
+
+4. Obtain an API key from Googles Generative AI service.
 
 
