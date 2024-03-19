@@ -1,6 +1,6 @@
 ## Overview
 
-This project leverages the power of Googles Generative AI to generate content based on user prompts. It utilizes the `google.generativeai` library to interact with the Gemini Pro model, enabling the creation of dynamic and engaging content. The primary functionality is encapsulated within a simple Python script that configures the API, selects the model, and defines a function to generate content from a given prompt.
+This project is simply an endeavor only to just gain hands-on experience with Google's Generative AI, particularly the Gemini Pro model. I've developed a Python script that utilizes the google.generativeai library to generate content based on user prompts.
 
 ## Features
 
